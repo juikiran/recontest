@@ -1,0 +1,101 @@
+/*********************************************************************************************************************/
+body {
+  font-family: 'Ubuntu';
+  text-align: center;
+}
+
+h1,h2,h3,h4,h5,h6 {
+  font-family: "Ubuntu";
+  font-weight: bold;
+}
+
+/*********************************************************************************************************************/
+.main-heading {
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+
+.section-heading {
+  font-size: 2rem;
+  line-height: 1.5;
+}
+
+#title {
+  background-color: #005082;
+  color: #fff;
+}
+
+.container-fluid {
+  padding: 3% 7%;
+}
+
+/* Navigation bar */
+.navbar {
+  padding: 0 0 4.5rem;
+}
+
+.navbar-brand {
+  font-family: 'Ubuntu';
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+}
+
+/* button */
+.download-btn {
+  margin: 5% 3% 5% 0;
+}
+
+/* Title Image */
+.title-image {
+  width: 60%;
+  transform: rotate(0deg);
+  position: absolute;
+  right: 30%;
+}
+
+/* Features section */
+#features {
+  padding: 7% 0 7% 0;
+  text-align: center;
+  background-color: #fff;
+  position: relative;
+}
+
+#pricing {
+  font-family: "Ubuntu";
+  padding: 100px;
+  text-align: center;
+}
+
+.pricing-column {
+  padding: 3% 2%;
+}
+
+#cta {
+  font-family: "Ubuntu";
+  background-color: #005082;
+  color: #fff;
+  text-align: center;
+}
+
+.cta-heading {
+  font-family: "Ubuntu";
+  font-size: 3.5rem line-height: 1.5;
+}
+
+#footer {
+  background-color: #fff;
+  text-align: center;
+}
+
+.social-media-btn {
+  margin: 20px 10px;
+}
