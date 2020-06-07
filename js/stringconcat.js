@@ -1,5 +1,5 @@
 var message1 = "Hello";
-var message2 ="Welcome to Web Developer Class."
+var message2 ="Welcome to GitHub. Try Recon and JS codes here"
 
 var stuName = prompt("User ID:");
 var space = " ";
