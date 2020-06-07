@@ -61,28 +61,10 @@ h1,h2,h3,h4,h5,h6 {
   right: 30%;
 }
 
-/* Features section */
-#features {
-  padding: 7% 0 7% 0;
-  text-align: center;
-  background-color: #fff;
-  position: relative;
-}
-
-#pricing {
-  font-family: "Ubuntu";
-  padding: 100px;
-  text-align: center;
-}
-
-.pricing-column {
-  padding: 3% 2%;
-}
-
 #cta {
   font-family: "Ubuntu";
-  background-color: #005082;
-  color: #fff;
+  background-color: #fff;
+  color: #005082;
   text-align: center;
 }
 
@@ -92,7 +74,7 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 #footer {
-  background-color: #fff;
+  background-color: #005082;
   text-align: center;
 }
 
